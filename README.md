@@ -1,5 +1,5 @@
 # pygame-reinforcementlearning
-requires: pygame, tensorflow, numpy
+requires: pygame, tensorflow, numpy, pandas
 
 Description: A python program where tensorflow is used to train learning agent to so that a black dot will recognize that its purpose is to follow a constantly-moving red dot.
 
